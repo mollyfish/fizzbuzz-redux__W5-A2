@@ -1,0 +1,23 @@
+{
+  "name": "fizzbuzz-redux__w5-a2",
+  "version": "0.1.0",
+  "description": "assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mollyfish/fizzbuzz-redux__W5-A2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mollyfish/fizzbuzz-redux__W5-A2/issues"
+  },
+  "homepage": "https://github.com/mollyfish/fizzbuzz-redux__W5-A2#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.4"
+  }
+}
