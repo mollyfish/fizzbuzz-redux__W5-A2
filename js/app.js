@@ -21,7 +21,7 @@ var FizzBuzz = (function() {
       }
     }
     return resultArr; 
-    // return the array
+    // return the array so it can be assigned to this.result in READ
   }
   
   FizzBuzz.prototype.read = function(start,stop) {
