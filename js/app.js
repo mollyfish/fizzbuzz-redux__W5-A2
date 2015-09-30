@@ -10,7 +10,7 @@
     startValue = parseInt(document.getElementById('beginValue').value);
     stopValue = parseInt(document.getElementById('endValue').value);
     if (startValue >= stopValue) {
-      alert("Your stop value must be larger than your start value.");
+      alert('Your stop value must be larger than your start value.');
     }
   }
   FizzBuzz.prototype.write = function(start,stop) {
